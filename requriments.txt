@@ -1,8 +1,13 @@
 fastapi
 uvicorn
 langserve
+sse-starlette
+python-dotenv
+
 langchain
 langchain-core
+langchain-community
 langchain-google-genai
-requests
-pydantirequrim
+langchain-text-splitters
+
+faiss-cpu
